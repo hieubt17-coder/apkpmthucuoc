@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/hieubt17-coder/apkpmthucuoc/releases/download/v1.0.3/pminthucuoc.apk",
+  "version": "1.0.4",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/hieubt17-coder/apkpmthucuoc/releases/download/v1.0.4/app-debug.apk",
   "forceUpdate": false,
-  "releaseNotes": "Cập nhật ứng dụng và giao diện."
+  "releaseNotes": "Test."
 }
