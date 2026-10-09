@@ -1,7 +1,7 @@
 {
   "version": "1.0.2",
-  "versionCode": 2,
-  "apkUrl": "https://github.com/hieubt17-coder/apkpmthucuoc/releases/download/v1.0.1/app-debug.apk",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/hieubt17-coder/apkpmthucuoc/releases/download/v1.0.2/app-debug.apk",
   "forceUpdate": false,
   "releaseNotes": "Cập nhật ứng dụng và sửa lỗi."
 }
